@@ -22,6 +22,7 @@ Example 3:
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+      //O(n) soln
          HashMap<Integer, Integer> prevMap = new HashMap<>();
 
       //go through the array and check if the value we need to create the target sum is in it 
