@@ -13,4 +13,5 @@ LeetCode
 |  48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./RotateImage.java) | Medium |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./twoSum.java) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./ValidAnagram.java) | Easy | 
-
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](./TopKFrequentElements.java) | Medium |
+| 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./groupAnagrams.java) | Medium |
