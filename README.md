@@ -1,5 +1,4 @@
-# HackerRanks
-Storing my own solution to HackerRanks I finish 
+# LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
