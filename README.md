@@ -21,3 +21,4 @@ LeetCode
 | HR  | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Java](./DesignerPDFViewer) | Easy |
 | HR  | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Java](./ArrayLeftRotation.java) | Easy |
 | HR  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Java](./InsertNodeAtK.java) | Easy |
+| HR  | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | [Java](./hasCycle.java) | Medium |
