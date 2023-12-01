@@ -16,8 +16,8 @@ LeetCode
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](./TopKFrequentElements.java) | Medium |
 | 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./groupAnagrams.java) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](./ProductExceptSelf.java) | Medium |
+| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Java](./ValidSudoku.java) | Medium |
 | HR  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](./AVeryBigSum.java) | Easy |
 | HR  | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Java](./DesignerPDFViewer) | Easy |
 | HR  | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Java](./ArrayLeftRotation.java) | Easy |
-| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Java](./ValidSudoku.java) | Medium |
 | HR  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Java](./InsertNodeAtK.java) | Easy |
