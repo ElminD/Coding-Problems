@@ -24,3 +24,5 @@ LeetCode
 | HR  | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | [Java](./hasCycle.java) | Medium |
 | HR  | [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | [Java](./QueueUsingTwoStacks.java) | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./LCS.java) | Medium |
+| META | [ABCs](https://www.metacareers.com/profile/coding_puzzles/?puzzle=513411323351554) | [Java](./ABCS.java) | Easy | 
+| META | [All Wrong](https://www.metacareers.com/profile/coding_puzzles/?puzzle=1082217288848574) | [Java](./AllWrong.java) | Easy | 
