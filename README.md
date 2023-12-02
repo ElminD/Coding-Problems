@@ -23,3 +23,4 @@ LeetCode
 | HR  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Java](./InsertNodeAtK.java) | Easy |
 | HR  | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | [Java](./hasCycle.java) | Medium |
 | HR  | [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | [Java](./QueueUsingTwoStacks.java) | Medium |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./LCS.java) | Medium |
