@@ -27,3 +27,7 @@ LeetCode
 | Meta | [ABCs](https://www.metacareers.com/profile/coding_puzzles/?puzzle=513411323351554) | [Java](./ABCS.java) | Easy | 
 | Meta | [All Wrong](https://www.metacareers.com/profile/coding_puzzles/?puzzle=1082217288848574) | [Java](./AllWrong.java) | Easy | 
 | Meta | [Battleship](https://www.metacareers.com/profile/coding_puzzles/?puzzle=3641006936004915) | [Java](./Battleship.java) | Easy | 
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Java](./DailyTemp.java) | Medium |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./ReversePolishNotation.java) | Medium |
+| 155 |  [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./MinStack.java) | Medium |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./validParentheses.java) | Easy |
