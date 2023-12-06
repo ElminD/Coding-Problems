@@ -31,4 +31,6 @@ LeetCode
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./ReversePolishNotation.java) | Medium |
 | 155 |  [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./MinStack.java) | Medium |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./validParentheses.java) | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java) | Easy |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./TwoSum2.java) | Medium | 
 | 11  | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./ContainerWithMostWater.java) | Medium |
