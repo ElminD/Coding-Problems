@@ -34,3 +34,4 @@ LeetCode
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java) | Easy |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./TwoSum2.java) | Medium | 
 | 11  | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./ContainerWithMostWater.java) | Medium |
+| 15  | [3Sum](https://leetcode.com/problems/3sum/description/) | [Java](./3Sum.java) | Medium |
