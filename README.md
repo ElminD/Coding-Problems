@@ -37,3 +37,4 @@ LeetCode
 | 15  | [3Sum](https://leetcode.com/problems/3sum/description/) | [Java](./3Sum.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | [Java](./ReverseLinkedList.java) | Easy |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07) | [Java](./Largestoddnumberinstring.java) | Easy |
+| 21  | [Merge Two Linked List](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [Java](./mergetwolinkedlist.java) | Easy |
