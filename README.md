@@ -1,11 +1,8 @@
-LeetCode
-========
+# LeetCode Practice Repository
 
-### Study Guide
-| Title | Link | Thoughts |
-| ----- | -------- | ----- |
-| NeetCode | [Website](https://neetcode.io/) | Only site you need to practice |
+This repository serves as a comprehensive study guide and solution collection for various LeetCode and HackerRank problems. Below is a curated list of problems with their corresponding solutions in Java. Happy coding!
 
+### LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -17,47 +14,49 @@ LeetCode
 | 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./groupAnagrams.java) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](./ProductExceptSelf.java) | Medium |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Java](./ValidSudoku.java) | Medium |
-| HR  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](./AVeryBigSum.java) | Easy |
-| HR  | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Java](./DesignerPDFViewer) | Easy |
-| HR  | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Java](./ArrayLeftRotation.java) | Easy |
-| HR  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Java](./InsertNodeAtK.java) | Easy |
-| HR  | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | [Java](./hasCycle.java) | Medium |
-| HR  | [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | [Java](./QueueUsingTwoStacks.java) | Medium |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./LCS.java) | Medium |
-| Meta | [ABCs](https://www.metacareers.com/profile/coding_puzzles/?puzzle=513411323351554) | [Java](./ABCS.java) | Easy | 
-| Meta | [All Wrong](https://www.metacareers.com/profile/coding_puzzles/?puzzle=1082217288848574) | [Java](./AllWrong.java) | Easy | 
-| Meta | [Battleship](https://www.metacareers.com/profile/coding_puzzles/?puzzle=3641006936004915) | [Java](./Battleship.java) | Easy | 
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Java](./DailyTemp.java) | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./ReversePolishNotation.java) | Medium |
 | 155 |  [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./MinStack.java) | Medium |
-| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./validParentheses.java) | Easy |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java) | Easy |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Java](./LCS.java) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./TwoSum2.java) | Medium | 
 | 11  | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](./ContainerWithMostWater.java) | Medium |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/description/) | [Java](./3Sum.java) | Medium |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | [Java](./ReverseLinkedList.java) | Easy |
-| 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07) | [Java](./Largestoddnumberinstring.java) | Easy |
 | 21  | [Merge Two Linked List](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [Java](./mergetwolinkedlist.java) | Easy |
-| 14  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./Linkedlistcycle.java) | Easy |
-| CS  | [add](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa) | [Java](./add.java) | Easy |
-| CS  | [CenturyFromYear](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN) | [Java](./centuryFromYear.java) | Intro |
-| CS  | [checkPalindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) | [Java](./checkPalindrome.java) | Intro |
-| CS  | [adjacentElementsProduct](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m) | [Java](./adjacentElementsProduct.java) | Intro |
-| CS  | [shapeArea](https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ) | [Java](./shapeArea.java) | Intro |
-| CS  | [Make Array Consecutive 2](https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC) | [Java](./makearrayconsecutive2.java) | Intro |
-| CS  | [almostIncreasingSequence](https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG) | [Java](./almostIncreasingSequence.java) | Intro |
-| CS  | [matrixElementsSum](https://app.codesignal.com/arcade/intro/level-2/xskq4ZxLyqQMCLshr) | [Java](./matrixElementsSum.java) | Intro |
-| CS  | [All Longest Strings](https://app.codesignal.com/arcade/intro/level-3/fzsCQGYbxaEcTr2bL) | [Java](./alllongeststrings.java) | Intro |
-| CS  | [commonCharacterCount](https://app.codesignal.com/arcade/intro/level-3/JKKuHJknZNj4YGL32) | [Java](./commonCharacterCount.java) | Intro |
-| CS  | [isLucky](https://app.codesignal.com/arcade/intro/level-3/3AdBC97QNuhF6RwsQ) | [Java](./isLucky.java) | Intro |
-| CS  | [Sort by Height](https://app.codesignal.com/arcade/intro/level-3/D6qmdBL2NYz49XHwM) | [Java](./sortByHeight.java) | Intro |
-| CS  | [reverseInParentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6) | [Java](./reverseInParentheses.java) | Intro |
-| CS  | [alternatingSums](https://app.codesignal.com/arcade/intro/level-4/cC5QuL9fqvZjXJsW9) | [Java](./alternatingSums.java) | Intro | 
-| CS  | [add border](https://app.codesignal.com/arcade/intro/level-4/ZCD7NQnED724bJtjN) | [Java](./addborder.java) | Intro | 
-| CS  | [Are Similar?](https://app.codesignal.com/arcade/intro/level-4/xYXfzQmnhBvEKJwXP) | [Java](./areSimilar.java) | Intro |
-| CS  | [arrayChange](https://app.codesignal.com/arcade/intro/level-4/xvkRbxYkdHdHNCKjg) | [Java](./arrayChange.java) | Intro |
-| CS  | [palindromeRearranging](https://app.codesignal.com/arcade/intro/level-4/Xfeo7r9SBSpo3Wico) | [Java](./palindromeRearranging.java) | Intro |
-| CS  | [areEquallyStrong](https://app.codesignal.com/arcade/intro/level-5/g6dc9KJyxmFjB98dL) | [Java](./areEquallyStrong.java) | Intro |
-| CS  | [arrayMaximalAdjacentDifference](https://app.codesignal.com/arcade/intro/level-5/EEJxjQ7oo7C5wAGjE) | [Java](./arrayMaximalAdjacentDifference.java) | Intro |
-| CS  | [isIPv4Address](https://app.codesignal.com/arcade/intro/level-5/veW5xJednTy4qcjso) | [Java](./isIPv4Address.java) | Intro |
-| CS  | [avoidObstacles](https://app.codesignal.com/arcade/intro/level-5/XC9Q2DhRRKQrfLhb5) | [Java](./avoidObstacles.java) | Intro | 
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | [Java](./ReverseLinkedList.java) | Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java) | Easy |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./validParentheses.java) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./ValidAnagram.java) | Easy | 
+
+### HackerRank Solutions
+
+| Title | Link | Difficulty |
+| ----- | -------- | ---------- |
+| A Very Big Sum | [Hackerrank](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy |
+| Designer PDF Viewer | [Hackerrank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | Easy |
+| Arrays: Left Rotation | [Hackerrank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | Easy |
+| Insert a node at a specific position in a linked list | [Hackerrank](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | Easy |
+| Cycle Detection | [Hackerrank](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | Medium |
+| Queue Using Two Stacks | [Hackerrank](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | Medium |
+
+### Meta Career Solutions
+
+| Puzzle | Link | Difficulty |
+| -------| ----- | ---------- |
+| ABCs | [Metacareers](https://www.metacareers.com/profile/coding_puzzles/?puzzle=513411323351554) | Easy |
+| All Wrong | [Metacareers](https://www.metacareers.com/profile/coding_puzzles/?puzzle=1082217288848574) | Easy |
+| Battleship | [Metacareers](https://www.metacareers.com/profile/coding_puzzles/?puzzle=3641006936004915) | Easy |
+
+### CodeSignal Solutions
+
+| Problem | Link | Difficulty |
+| ------- | ---- | ---------- |
+| add | [Codesignal](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa) | Intro |
+| CenturyFromYear | [Codesignal](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN) | Intro |
+| checkPalindrome | [Codesignal](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) | Intro |
+| adjacentElementsProduct | [Codesignal](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m) | Intro |
+| shapeArea | [Codesignal](https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ) | Intro |
+| Make Array Consecutive 2 | [Codesignal](https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC) | Intro |
+| almostIncreasingSequence | [Codesignal](https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG) | Intro |
+| matrixElementsSum | [Codesignal](https://app.codesignal.com/arcade/intro/level-2/xskq4ZxLyqQMCLshr) | Intro |
+| All Longest Strings | [Codesignal](https://app.codesignal.com/arcade/intro/level-3/fzsCQGYbxaEcTr2bL) | Intro |
+| commonCharacterCount | [Codesignal](https://app.codesignal.com/arcade/intro/level-3/JKKuHJknZNj4YGL32) | Intro |
