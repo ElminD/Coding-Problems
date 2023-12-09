@@ -39,3 +39,25 @@ LeetCode
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07) | [Java](./Largestoddnumberinstring.java) | Easy |
 | 21  | [Merge Two Linked List](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [Java](./mergetwolinkedlist.java) | Easy |
 | 14  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./Linkedlistcycle.java) | Easy |
+| CS  | [add](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa) | [Java](./add.java) | Easy |
+| CS  | [CenturyFromYear](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN) | [Java](./centuryFromYear.java) | Intro |
+| CS  | [checkPalindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ) | [Java](./checkPalindrome.java) | Intro |
+| CS  | [adjacentElementsProduct](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m) | [Java](./adjacentElementsProduct.java) | Intro |
+| CS  | [shapeArea](https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ) | [Java](./shapeArea.java) | Intro |
+| CS  | [Make Array Consecutive 2](https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC) | [Java](./makearrayconsecutive2.java) | Intro |
+| CS  | [almostIncreasingSequence](https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG) | [Java](./almostIncreasingSequence.java) | Intro |
+| CS  | [matrixElementsSum](https://app.codesignal.com/arcade/intro/level-2/xskq4ZxLyqQMCLshr) | [Java](./matrixElementsSum.java) | Intro |
+| CS  | [All Longest Strings](https://app.codesignal.com/arcade/intro/level-3/fzsCQGYbxaEcTr2bL) | [Java](./alllongeststrings.java) | Intro |
+| CS  | [commonCharacterCount](https://app.codesignal.com/arcade/intro/level-3/JKKuHJknZNj4YGL32) | [Java](./commonCharacterCount.java) | Intro |
+| CS  | [isLucky](https://app.codesignal.com/arcade/intro/level-3/3AdBC97QNuhF6RwsQ) | [Java](./isLucky.java) | Intro |
+| CS  | [Sort by Height](https://app.codesignal.com/arcade/intro/level-3/D6qmdBL2NYz49XHwM) | [Java](./sortByHeight.java) | Intro |
+| CS  | [reverseInParentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6) | [Java](./reverseInParentheses.java) | Intro |
+| CS  | [alternatingSums](https://app.codesignal.com/arcade/intro/level-4/cC5QuL9fqvZjXJsW9) | [Java](./alternatingSums.java) | Intro | 
+| CS  | [add border](https://app.codesignal.com/arcade/intro/level-4/ZCD7NQnED724bJtjN) | [Java](./addborder.java) | Intro | 
+| CS  | [Are Similar?](https://app.codesignal.com/arcade/intro/level-4/xYXfzQmnhBvEKJwXP) | [Java](./areSimilar.java) | Intro |
+| CS  | [arrayChange](https://app.codesignal.com/arcade/intro/level-4/xvkRbxYkdHdHNCKjg) | [Java](./arrayChange.java) | Intro |
+| CS  | [palindromeRearranging](https://app.codesignal.com/arcade/intro/level-4/Xfeo7r9SBSpo3Wico) | [Java](./palindromeRearranging.java) | Intro |
+| CS  | [areEquallyStrong](https://app.codesignal.com/arcade/intro/level-5/g6dc9KJyxmFjB98dL) | [Java](./areEquallyStrong.java) | Intro |
+| CS  | [arrayMaximalAdjacentDifference](https://app.codesignal.com/arcade/intro/level-5/EEJxjQ7oo7C5wAGjE) | [Java](./arrayMaximalAdjacentDifference.java) | Intro |
+| CS  | [isIPv4Address](https://app.codesignal.com/arcade/intro/level-5/veW5xJednTy4qcjso) | [Java](./isIPv4Address.java) | Intro |
+| CS  | [avoidObstacles](https://app.codesignal.com/arcade/intro/level-5/XC9Q2DhRRKQrfLhb5) | [Java](./avoidObstacles.java) | Intro | 
