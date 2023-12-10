@@ -29,7 +29,7 @@ This repository serves as a comprehensive study guide and solution collection fo
 
 ### HackerRank Solutions
 
-| Title | Link | Difficulty |
+| Problem | Link | Difficulty |
 | ----- | -------- | ---------- |
 | A Very Big Sum | [Hackerrank](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy |
 | Designer PDF Viewer | [Hackerrank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | Easy |
@@ -40,7 +40,7 @@ This repository serves as a comprehensive study guide and solution collection fo
 
 ### Meta Career Solutions
 
-| Puzzle | Link | Difficulty |
+| Problem | Link | Difficulty |
 | -------| ----- | ---------- |
 | ABCs | [Metacareers](https://www.metacareers.com/profile/coding_puzzles/?puzzle=513411323351554) | Easy |
 | All Wrong | [Metacareers](https://www.metacareers.com/profile/coding_puzzles/?puzzle=1082217288848574) | Easy |
