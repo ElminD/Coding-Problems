@@ -26,6 +26,7 @@ This repository serves as a comprehensive study guide and solution collection fo
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java) | Easy |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./validParentheses.java) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./ValidAnagram.java) | Easy | 
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11) | [Java](./elementMoreThen25prcInArray.java) | Easy |
 
 ### HackerRank Solutions
 
