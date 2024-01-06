@@ -9,6 +9,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./NumberOfOneBits.java) | Easy |
+| 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./ClimbingStairs.java) | Easy |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./SubtreeOfAnotherTree.java) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](./SameTree.java) | Easy |
 | 104 | [Maxium Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](./maximumDepthofBinaryTree.java) | Easy |
