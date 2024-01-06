@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |[Java](./LongestRepatingCharacterReplacement.java) | [Medium] |  
 |  3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](./LongestSubStringWithoutRepeatingCharacters.java) | [Medium] |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./BestTimeToBuyAndSellStock.java) | [Easy] | 
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium | [Java](./JumpGame.java) |
