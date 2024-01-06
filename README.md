@@ -9,6 +9,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- | 
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](./SameTree.java) | Easy |
+| 104 | [Maxium Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](./maximumDepthofBinaryTree.java) | Easy |
 | 226 | [Inverty Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./InvertBinaryTree.java) | Easy |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./SearchinRotatedSortedArray.java) | [Medium] |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java](./FindMimimuminRoatatedSortedArray.java) | [Medium] | 
