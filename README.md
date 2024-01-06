@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|  3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](./LongestSubStringWithoutRepeatingCharacters.java) | [Medium] |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](./BestTimeToBuyAndSellStock.java) | [Easy] | 
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium | [Java](./JumpGame.java) |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/?envType=daily-question&envId=2023-12-11) | [Java](./elementMoreThen25prcInArray.java) | Easy |
