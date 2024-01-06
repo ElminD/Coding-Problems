@@ -8,7 +8,8 @@ LeetCode
 
 
 | # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- | 
+|---| ----- | -------- | ---------- |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Java](./SubtreeOfAnotherTree.java) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](./SameTree.java) | Easy |
 | 104 | [Maxium Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](./maximumDepthofBinaryTree.java) | Easy |
 | 226 | [Inverty Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./InvertBinaryTree.java) | Easy |
