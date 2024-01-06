@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- | 
+| 226 | [Inverty Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./InvertBinaryTree.java) | Easy |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./SearchinRotatedSortedArray.java) | [Medium] |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java](./FindMimimuminRoatatedSortedArray.java) | [Medium] | 
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |[Java](./LongestRepatingCharacterReplacement.java) | [Medium] |  
