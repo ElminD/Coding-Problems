@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Java](./EncodeAndDecodeStrings.java) | Medium |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./reversebits.java) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./NumberOfOneBits.java) | Easy |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](./ClimbingStairs.java) | Easy |
