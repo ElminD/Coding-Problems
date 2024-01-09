@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java](./TrappingRainWater.java) | Hard |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Java](./EncodeAndDecodeStrings.java) | Medium |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./reversebits.java) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](./NumberOfOneBits.java) | Easy |
