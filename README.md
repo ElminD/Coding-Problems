@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Java](./leaf-similar-trees.java) | Easy |
 | 704 | [Binary Searc](https://leetcode.com/problems/binary-search/description/) | [Java](./binarysearch.java) | Easy |
 | 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java](./TrappingRainWater.java) | Hard |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Java](./EncodeAndDecodeStrings.java) | Medium |
