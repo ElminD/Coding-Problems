@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](./houserobbers.java) | Medium | 
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](./missingNumber.java) | Easy |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [Java](./meetingRooms.java) | Easy |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Java](./leaf-similar-trees.java) | Easy |
