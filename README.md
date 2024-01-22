@@ -9,6 +9,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22) | [Java](./SetMismatch.java) | Easy |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](./KthSmallestElementInABST.java) | Medium |
 | 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](./ValidateBinarySearchTree.java) | Medium | 
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./BinaryTreeLevelOrderTraversal.java) | Medium |
